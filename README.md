@@ -1,4 +1,4 @@
-###Link : https://game-typing-speed.vercel.app/
+### Link : https://game-typing-speed.vercel.app/
 
 # Getting Started with Create React App
 
